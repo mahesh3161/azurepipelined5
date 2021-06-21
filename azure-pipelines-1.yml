@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: String # Self Hosted Windows Agent
+pool: Self Hosted Windows Agent
 
 steps:
 - task: Maven@3
