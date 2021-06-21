@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: MyPool
+pool: Self Hosted Windows Agent
 
 steps:
 - task: Maven@3
